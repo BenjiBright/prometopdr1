@@ -154,5 +154,7 @@ int main ()
         }//if
     else
         cout << "correct, you can now start the quiz.\n";
+
+    //Begin de quiz nu:
     return 0;
 }//main
